@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Support-vector-machine](README.md)
 
